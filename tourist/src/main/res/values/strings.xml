@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">tourist</string>
     <string name="title_activity_maps">Map</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_i_am_here">I am here.</string>
+    <string name="btn_view_all_positions">view all positions</string>
 </resources>
